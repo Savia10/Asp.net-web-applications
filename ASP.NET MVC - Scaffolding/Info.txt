@@ -1,0 +1,3 @@
+ASP.NET Scaffolding is a code generation framework for ASP.NET Web applications. Visual Studio 2013 includes pre-installed code generators for MVC and Web API projects. You add scaffolding to your project when you want to quickly add code that interacts with data models. Using scaffolding can reduce the amount of time to develop standard data operations in your project.
+
+As you have seen that we have created the views for Index, Create, Edit actions and also need to update the actions methods as well. But ASP.Net MVC provides an easier way to create all these Views and action methods using scaffolding.
