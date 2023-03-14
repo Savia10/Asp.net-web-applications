@@ -1,0 +1,7 @@
+ASP.NET Web API is a framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices. ASP.NET Web API is an ideal platform for building RESTful applications on the .NET Framework.
+
+When you're building APIs on the Web, there are several ways you can build APIs on the Web. These include HTTP/RPC, and what this means is using HTTP in Remote Procedure Call to call into things, like Methods, across the Web.
+
+The verbs themselves are included in the APIs, like Get Customers, Insert Invoice, Delete Customer, and that each of these endpoints end up being a separate URI.
+
+GET urls -/api/employees ,/api/employees/1
