@@ -4,4 +4,5 @@ As you have seen that we have created the views for Index, Create, Edit actions 
 
 Create  ASP.NET Web Application ,Empty ,Tick mark MVC option 
 
+Install the EntityFramework(v6.4.4) Right-click on the project and select NuGet Package Manager → Manage NuGet Packages for Solution
 
